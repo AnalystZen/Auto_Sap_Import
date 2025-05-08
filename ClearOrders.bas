@@ -1,7 +1,7 @@
 Attribute VB_Name = "ClearOrders"
 Sub ClearOrderSheet()
 ' This macro will clear all orders from the order page.
-' Created by Antonio Lassalle on 8/30/2024.
+
 
     ' Variable declaration.
     Dim MessageResult As VbMsgBoxResult
