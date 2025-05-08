@@ -1,7 +1,7 @@
 Attribute VB_Name = "Export_SAP_Bags"
 Sub BagProc()
 ' This sub will start MD07 in SAP and export the bag information via clip board to the designated workbook.
-' Created by Antonio Lassalle - 8/17/2024.
+
 
     ' Update Status range for user.
         If Range("Status") = "" Then Range("Status") = "Importing Data.....Please Wait..."
