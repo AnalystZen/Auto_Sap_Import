@@ -1,7 +1,7 @@
 Attribute VB_Name = "FilterListData"
 Sub FilterData()
 ' This sub will filter the data column "Plant Stock", any value with 0 will hide the row, then unhide the row based on user action.
-' Created by Antonio Lassalle on 08/18/2024.
+
 
         Dim MyRange As Range
         Dim Stock As Range
